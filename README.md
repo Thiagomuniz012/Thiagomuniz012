@@ -8,12 +8,12 @@
 
 ### Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagomuniz012&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagomuniz012&layout=compact&theme=github_dark_dimmed)
 
 ### Projetos em Destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thiagomuniz012&repo=React-crud)](https://github.com/Thiagomuniz012/React-crud)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thiagomuniz012&repo=Controle-Unisales)](https://github.com/Thiagomuniz012/Controle-Unisales)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thiagomuniz012&repo=React-crud&theme=github_dark_dimmed)](https://github.com/Thiagomuniz012/React-crud)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thiagomuniz012&repo=Controle-Unisales&theme=github_dark_dimmed)](https://github.com/Thiagomuniz012/Controle-Unisales)
 
 ### Estatísticas no GitHub
 
-![thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagomuniz012&show_icons=true&theme=white)
+![thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagomuniz012&show_icons=true&theme=github_dark_dimmed)
