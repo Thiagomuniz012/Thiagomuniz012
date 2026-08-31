@@ -1,20 +1,16 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7AA2F7&height=160&section=header&text=Thiago%20Muniz&fontSize=38&fontColor=ffffff&animation=twinkling&desc=Desenvolvedor%20Mobile&descAlignY=65&descSize=18" width="100%" alt="Thiago Muniz" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+Thiago+Muniz;Desenvolvedor+Mobile;Kotlin+%C2%B7+React+Native+%C2%B7+Jetpack+Compose" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Kotlin+%C2%B7+Jetpack+Compose+%C2%B7+React+Native;Android+Nativo+%C2%B7+APIs+REST+%C2%B7+MVVM;Apps+em+produ%C3%A7%C3%A3o+em+larga+escala" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/u/96026998?v=4" width="130" style="border-radius: 50%;" alt="Thiago Muniz" />
+<img src="https://img.shields.io/badge/Vila_Velha,_ES-7AA2F7?style=flat-square" alt="Localização" />
+<img src="https://img.shields.io/badge/Eng._de_Software-UniSales-7AA2F7?style=flat-square" alt="Formação" />
+<img src="https://img.shields.io/badge/webPosto-Mobile_Dev-7AA2F7?style=flat-square" alt="Empresa" />
 
-<br/>
-
-**Desenvolvedor Mobile** · Android Nativo · React Native · APIs
-
-<br/>
-
-📍 Vila Velha, Espírito Santo · 🇧🇷 Brasil
-
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagomuniz012/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiagomuniz012)
@@ -154,7 +150,7 @@
 <div align="center">
 
 [![controle-salas](https://github-stats-extended.vercel.app/api/pin/?username=Thiagomuniz012&repo=controle-salas&theme=tokyonight&hide_border=true)](https://github.com/Thiagomuniz012/controle-salas)
-[![rota-segura](https://github-stats-extended.vercel.app/api/pin/?username=Thiagomuniz012&repo=rota-segura&theme=tokyonight&hide_border=true)](https://github.com/Thiagomuniz012/rota-segura)
+[![next-ticket](https://github-stats-extended.vercel.app/api/pin/?username=Thiagomuniz012&repo=next-ticket&theme=tokyonight&hide_border=true)](https://github.com/Thiagomuniz012/next-ticket)
 
 [![react-crud](https://github-stats-extended.vercel.app/api/pin/?username=Thiagomuniz012&repo=react-crud&theme=tokyonight&hide_border=true)](https://github.com/Thiagomuniz012/react-crud)
 [![airflow-etl](https://github-stats-extended.vercel.app/api/pin/?username=Thiagomuniz012&repo=airflow-etl&theme=tokyonight&hide_border=true)](https://github.com/Thiagomuniz012/airflow-etl)
