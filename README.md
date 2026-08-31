@@ -4,16 +4,16 @@
 
 ### Especialidades
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=%23D04A37) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ### Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagomuniz012&layout=compact&theme=github_dark_dimmed)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Thiagomuniz012&layout=compact&theme=github_dark_dimmed)
 
 ### Projetos em Destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thiagomuniz012&repo=React-crud&theme=github_dark_dimmed)](https://github.com/Thiagomuniz012/React-crud)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thiagomuniz012&repo=Controle-Unisales&theme=github_dark_dimmed)](https://github.com/Thiagomuniz012/Controle-Unisales)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Thiagomuniz012&repo=React-crud&theme=github_dark_dimmed)](https://github.com/Thiagomuniz012/React-crud)[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Thiagomuniz012&repo=Controle-Unisales&theme=github_dark_dimmed)](https://github.com/Thiagomuniz012/Controle-Unisales)
 
 ### Estatísticas no GitHub
 
-![thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagomuniz012&show_icons=true&theme=github_dark_dimmed)
+![thiago's GitHub stats](https://github-stats-extended.vercel.app/api?username=Thiagomuniz012&show_icons=true&theme=github_dark_dimmed)
